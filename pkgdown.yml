@@ -1,0 +1,10 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  rcol: rcol.html
+last_built: 2021-07-16T01:01Z
+urls:
+  reference: https://docs.ropensci.org/rcol/reference
+  article: https://docs.ropensci.org/rcol/articles
+

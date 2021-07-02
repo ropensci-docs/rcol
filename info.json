@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "a3038816eb53cf40ae629438d23a3dc476338091",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-07-02 18:53:05",
+    "files": 3,
+    "merge": false,
+    "message": "udpate news, cran comments, and codemeta.json\n"
+  },
+  "remote": "https://github.com/ropensci/rcol",
+  "pkg": "rcol"
+}
